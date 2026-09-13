@@ -1,2 +1,1 @@
-# Welcome to the Example App repository!
-This GitHub organization is owned by the High School Research Initiative DIY Apps module. IT IS MEANT FOR TEACHER USE ONLY. The DIY Apps module contains student guides which teach students how to create working apps. This repository contains all of those working apps and therefore are the “answer keys” to the student guides. Therefore, the repositories in this organization should NOT be shared with students and are meant for teachers to use for reference.
+This is the README file for the .github file which has no real purpose.
